@@ -1,0 +1,39 @@
+# Reading D:/Program Files/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {D:/Users/John/Documents/ECE 554/Projects/Mini-Lab 1/Source/SPART.mpf} 
+# Loading project SPART
+# Compile of baud_generator.v was successful.
+# Compile of bus_interface.v was successful.
+# Compile of driver.v was successful.
+# Compile of receiver.v was successful.
+# Compile of spart.v was successful.
+# Compile of t_baud_generator.v was successful.
+# Compile of t_bus_interface.v was successful.
+# Compile of t_receiver.v was successful.
+# Compile of t_top_level.v was successful.
+# Compile of t_transmitter.v was successful.
+# Compile of top_level.v was successful.
+# Compile of transmitter.v was successful.
+# 12 compiles, 0 failed with no errors. 
+vsim -gui work.t_top_level
+# vsim -gui work.t_top_level 
+# Loading work.t_top_level
+# Loading work.top_level
+# Loading work.spart
+# Loading work.bus_interface
+# Loading work.multiplexer
+# Loading work.baud_generator
+# Loading work.transmitter
+# Loading work.receiver
+# Loading work.rx
+# Loading work.sampler
+# Loading work.driver
+add wave -r /*
+run -all
+# Break key hit 
+# Break in Module t_top_level in file D:/Users/John/Documents/ECE 554/Projects/Mini-Lab 1/Source/t_top_level.v
+# Compile of transmitter.v was successful.
+restart
+# Loading work.transmitter
+run -all
+# Break key hit 
+# Break in Module t_top_level at D:/Users/John/Documents/ECE 554/Projects/Mini-Lab 1/Source/t_top_level.v line 12

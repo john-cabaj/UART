@@ -1,0 +1,266 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files\altera\13.0sp1
+vbaud_generator
+VlO9a;><YA@Q?;KVa_9gFY2
+r1
+31
+IibibY<HlajEG=mgFJVK^I2
+Z0 dI:\ECE 554\spart
+w1379270342
+8I:/ECE 554/spart/baud_generator.v
+FI:/ECE 554/spart/baud_generator.v
+L0 2
+Z1 OE;L;6.3;37
+Z2 o-work work -nocovercells
+!s85 0
+vbus_interface
+Vha3L[z@>ezo2gKncigS?P0
+r1
+31
+IcPl]B@8zf=]:N7zKk8Dko0
+Z3 dI:\ECE 554\spart
+Z4 w1379041696
+Z5 8I:/ECE 554/spart/bus_interface.v
+Z6 FI:/ECE 554/spart/bus_interface.v
+L0 2
+R1
+R2
+!s85 0
+vdriver
+Vbnm4WMlM:CfTN_h`=ZAoj3
+r1
+!s85 0
+31
+I1=k4OJJ6J@^0]_ehoTg@@0
+R3
+w1379283150
+8I:/ECE 554/spart/driver.v
+FI:/ECE 554/spart/driver.v
+L0 21
+R1
+R2
+vdriver_out
+V[^4J739YPPhO9eoHQX7la2
+r1
+31
+I21IZX]GPNF2d^:c7f2J3d3
+R3
+w1379278138
+8I:/ECE 554/spart/driver_out.v
+FI:/ECE 554/spart/driver_out.v
+L0 21
+R1
+R2
+!s85 0
+vfour_one_mux
+I;2RULHPVUmNS>W]U>z6N@1
+VLTB60jVWWJCkaJ>QjO[Ua3
+Z7 dI:\ECE 554\Mini-Lab 1\Source
+w1378854353
+Z8 8I:/ECE 554/Mini-Lab 1/Source/baud_generator.v
+Z9 FI:/ECE 554/Mini-Lab 1/Source/baud_generator.v
+L0 52
+R1
+r1
+31
+R2
+!s85 0
+vfour_one_Mux
+I=Dc`[?[]KZW[DLE9EYBaR3
+VgJz0PU3PZI2MQnJY_HXd@3
+R7
+w1378851809
+R8
+R9
+L0 42
+R1
+r1
+31
+R2
+nfour_one_@mux
+!s85 0
+vmultiplexer
+VYj_e8W7Xk7?LW6ZOCUe9Z3
+r1
+31
+IeGh=`S5gVU:9h8XDW6h@E0
+R3
+R4
+R5
+R6
+L0 21
+R1
+R2
+!s85 0
+vreceiver
+V:<Pd[K>iY;We1zGA8h;d_2
+r1
+31
+IH6NNcl]:cMLTaRT43D>U93
+R3
+Z10 w1379273971
+Z11 8I:/ECE 554/spart/receiver.v
+Z12 FI:/ECE 554/spart/receiver.v
+L0 2
+R1
+R2
+!s85 0
+vrx
+VWZoN1NBLD9E?lzPZA?RUc0
+r1
+31
+I?g]>j4]89k3DiiQ`>Ab8z2
+R3
+R10
+R11
+R12
+L0 78
+R1
+R2
+!s85 0
+vsampler
+VAMP[YL2>iJdbDC1NKk1FW1
+r1
+31
+IgAGIGISc]nD[_4n_z8VVH2
+R3
+R10
+R11
+R12
+L0 12
+R1
+R2
+!s85 0
+vspart
+VCAAFb=W7NFSfTkC[372fc0
+r1
+31
+ILaS6:[?H[Q_kJ93Eh^LE:2
+R3
+w1379273035
+8I:/ECE 554/spart/spart.v
+FI:/ECE 554/spart/spart.v
+L0 21
+R1
+R2
+!s85 0
+vt_baud_generator
+I=1M^0?I5jY75<Sez4fmc71
+VK^zGTFjbV3AcQa[Q<6MBP0
+R3
+w1378937430
+8I:/ECE 554/spart/t_baud_generator.v
+FI:/ECE 554/spart/t_baud_generator.v
+L0 1
+R1
+r1
+31
+R2
+!s85 0
+vt_bus_interface
+IgGhYi2S_CKUYKYo2E2A>N3
+V8o:A1=jT^M<F=]WSg17^N0
+R3
+w1378834936
+8I:/ECE 554/spart/t_bus_interface.v
+FI:/ECE 554/spart/t_bus_interface.v
+L0 1
+R1
+r1
+31
+R2
+!s85 0
+vt_receiver
+InM>=ozDWF8AiK49@lZz:E3
+VOEaTmJdlSPLHAJ[PUkOU_3
+R3
+w1378944580
+8I:/ECE 554/spart/t_receiver.v
+FI:/ECE 554/spart/t_receiver.v
+L0 1
+R1
+r1
+31
+R2
+!s85 0
+vt_top_level
+Ik_7ZV][oO3MBT1S1OaiJg3
+VcjFAZ_1Ng^jZe7_MkkZ>U3
+R3
+w1379097399
+8I:/ECE 554/spart/t_top_level.v
+FI:/ECE 554/spart/t_top_level.v
+L0 1
+R1
+r1
+31
+R2
+!s85 0
+vt_top_level_full
+VS>JRI5[QANlE1L]:LkQg43
+r1
+31
+IUQ3JcchA[=9NJ2h_i;:U62
+R3
+w1379100486
+8I:/ECE 554/spart/t_top_level_full.v
+FI:/ECE 554/spart/t_top_level_full.v
+L0 1
+R1
+R2
+!s85 0
+vt_transmitter
+IXkiIDANheo7ibfQBSEPnl2
+Vlb<JA[hM@JVOal:11QNg]2
+R3
+w1378845552
+8I:/ECE 554/spart/t_transmitter.v
+FI:/ECE 554/spart/t_transmitter.v
+L0 1
+R1
+r1
+31
+R2
+!s85 0
+vtop_level
+Im0o`?=og6Pz70bDz^9gZJ3
+VPk]YbEIe]dX^<_AkSnXZ[0
+R3
+w1379045066
+8I:/ECE 554/spart/top_level.v
+FI:/ECE 554/spart/top_level.v
+L0 21
+R1
+r1
+31
+R2
+!s85 0
+vtop_level_full
+VT<aagzNoP;SO;ma9J9Zi=0
+r1
+31
+INhdRB6dz`P`SbkXK3>TB93
+R3
+w1379103115
+8I:/ECE 554/spart/top_level_full.v
+FI:/ECE 554/spart/top_level_full.v
+L0 21
+R1
+R2
+!s85 0
+vtransmitter
+V_>hzjmckVNJnIYYfB[T4X2
+r1
+31
+IL5WU=`11[zR:aI9Zi5eai2
+R3
+w1379277353
+8I:/ECE 554/spart/transmitter.v
+FI:/ECE 554/spart/transmitter.v
+L0 2
+R1
+R2
+!s85 0
